@@ -1,0 +1,8 @@
+[please]
+version = >=17.0.0
+
+[PluginDefinition]
+Name = k8s
+
+[Plugin "shell"]
+Target = //plugins:shell
