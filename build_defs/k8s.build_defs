@@ -1,4 +1,4 @@
-ubinclude("///shell//build_defs:shell")
+subinclude("///shell//build_defs:shell")
 
 """Rules for building Kubernetes objects."""
 
